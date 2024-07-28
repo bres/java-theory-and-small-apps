@@ -1,2 +1,2 @@
-# java_theory and small apps
+# java theory and small apps
 Παραδείγματα και μικρές εφαρμογές, σχετικά με τον προγραμματισμό στην java.
