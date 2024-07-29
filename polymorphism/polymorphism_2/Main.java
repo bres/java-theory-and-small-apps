@@ -1,4 +1,4 @@
-package polymorphism_2;
+package polymorphism.polymorphism_2;
 
 public class Main {
     public static void main(String[] args) {

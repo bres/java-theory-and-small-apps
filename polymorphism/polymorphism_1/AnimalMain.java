@@ -1,4 +1,4 @@
-package polymorphism_1;
+package polymorphism.polymorphism_1;
 
 public class AnimalMain {
     public static void main(String[] args) {
