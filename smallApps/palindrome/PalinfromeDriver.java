@@ -1,4 +1,4 @@
-package org.example.palindrome;
+package smallApps.palindrome;
 
 public class PalinfromeDriver {
 

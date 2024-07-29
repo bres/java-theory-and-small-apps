@@ -1,4 +1,4 @@
-package org.example.point;
+package smallApps.point;
 
 public class Point {
     protected int x;

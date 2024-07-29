@@ -1,4 +1,4 @@
-package org.example.point;
+package smallApps.point;
 
 public class Point2d extends Point{
     protected int y;

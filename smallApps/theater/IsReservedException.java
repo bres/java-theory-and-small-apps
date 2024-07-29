@@ -1,4 +1,4 @@
-package org.example.ch4;
+package smallApps.theater;
 
 public class IsReservedException extends Exception {
 

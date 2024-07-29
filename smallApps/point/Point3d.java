@@ -1,4 +1,4 @@
-package org.example.point;
+package smallApps.point;
 
 public class Point3d extends Point2d{
     protected int z;

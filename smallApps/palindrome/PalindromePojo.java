@@ -1,4 +1,4 @@
-package org.example.palindrome;
+package smallApps.palindrome;
 
 /**
  * klash palindromePojo - plain old java object

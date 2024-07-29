@@ -1,4 +1,4 @@
-package org.example.triliza;
+package smallApps.triliza;
 
 public class ValueOutOfBoundsException extends Exception{
 

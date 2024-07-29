@@ -1,4 +1,4 @@
-package org.example.ch4;
+package smallApps.theater;
 
 public interface ISeat {
     boolean reserve() throws IsReservedException;
